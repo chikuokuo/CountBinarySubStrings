@@ -1,0 +1,15 @@
+D:\Kata\Count Binary Substrings\Count Binary Substrings\bin\Debug\net6.0\Count Binary Substrings.exe
+D:\Kata\Count Binary Substrings\Count Binary Substrings\bin\Debug\net6.0\Count Binary Substrings.deps.json
+D:\Kata\Count Binary Substrings\Count Binary Substrings\bin\Debug\net6.0\Count Binary Substrings.runtimeconfig.json
+D:\Kata\Count Binary Substrings\Count Binary Substrings\bin\Debug\net6.0\Count Binary Substrings.dll
+D:\Kata\Count Binary Substrings\Count Binary Substrings\bin\Debug\net6.0\ref\Count Binary Substrings.dll
+D:\Kata\Count Binary Substrings\Count Binary Substrings\bin\Debug\net6.0\Count Binary Substrings.pdb
+D:\Kata\Count Binary Substrings\Count Binary Substrings\obj\Debug\net6.0\Count Binary Substrings.csproj.AssemblyReference.cache
+D:\Kata\Count Binary Substrings\Count Binary Substrings\obj\Debug\net6.0\Count Binary Substrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kata\Count Binary Substrings\Count Binary Substrings\obj\Debug\net6.0\Count Binary Substrings.AssemblyInfoInputs.cache
+D:\Kata\Count Binary Substrings\Count Binary Substrings\obj\Debug\net6.0\Count Binary Substrings.AssemblyInfo.cs
+D:\Kata\Count Binary Substrings\Count Binary Substrings\obj\Debug\net6.0\Count Binary Substrings.csproj.CoreCompileInputs.cache
+D:\Kata\Count Binary Substrings\Count Binary Substrings\obj\Debug\net6.0\Count Binary Substrings.dll
+D:\Kata\Count Binary Substrings\Count Binary Substrings\obj\Debug\net6.0\ref\Count Binary Substrings.dll
+D:\Kata\Count Binary Substrings\Count Binary Substrings\obj\Debug\net6.0\Count Binary Substrings.pdb
+D:\Kata\Count Binary Substrings\Count Binary Substrings\obj\Debug\net6.0\Count Binary Substrings.genruntimeconfig.cache
